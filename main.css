@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    background-color: #1d1e21;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white {
+  color: white;
+}
+ .form-container {
+   /*background-color: #0061ff;*/
+   height: 70%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
